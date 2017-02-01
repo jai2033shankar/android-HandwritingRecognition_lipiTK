@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TTS_library_stub">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/TTS_library_stub.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

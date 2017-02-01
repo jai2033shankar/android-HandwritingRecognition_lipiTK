@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed Feb 01 14:46:10 IST 2017
+2.base=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\assets\\debug\\projects.zip
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\assets\\debug
+1.file=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\typepad.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ASSET
+0.base=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Pradumn K Mahanta\\Documents\\GitHub\\Temporary\\LipiTK\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\exit.png
+0.set=ANDROID_RESOURCE

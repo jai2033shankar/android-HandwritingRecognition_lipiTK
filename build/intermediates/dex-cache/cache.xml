@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Temporary\LipiTK-Backup\app\libs\TTS_library_stub.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1de34dcfd2701f75a8dde1e51efb917d8a86607e">
+        <dex dex="D:\Temporary\LipiTK-Backup\app\build\intermediates\pre-dexed\debug\TTS_library_stub_6a82de4ca596308a0df67cdf573a2420b76ffa76.jar" />
+    </item>
+
+</items>

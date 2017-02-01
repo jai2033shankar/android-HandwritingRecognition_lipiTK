@@ -1,0 +1,4 @@
+#Wed Feb 01 15:36:29 IST 2017
+base.0=D\:\\Temporary\\LipiTK-Backup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Temporary\\LipiTK-Backup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
